@@ -27,7 +27,7 @@ An intensive C programming and collaboration course in [HIVE Helsinki](https://w
 
 Command line:
 
-- Bash
+- Shell
 - C
 - Makefile
 
