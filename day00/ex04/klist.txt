@@ -1,0 +1,6 @@
+Credentials cache: API:5175
+        Principal: akurusio@HIVE.FI
+
+  Issued                Expires               Principal
+Jun 27 15:16:23 2022  Jun 28 01:16:23 2022  krbtgt/HIVE.FI@HIVE.FI
+Jun 27 15:16:24 2022  Jun 28 01:16:23 2022  HTTP/student-storage.hive.fi@HIVE.FI

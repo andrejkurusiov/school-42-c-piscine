@@ -1,0 +1,8 @@
+find . -type f -iname "*~" -print
+find . -regex '.*/*~' -print
+
+-type f
+-delete
+
+find . -type f \( -iname "*~" -or -iname "#*#" \) -print
+find . -type f \( -iname "*~" -or -iname "#*#" \) -print -delete
