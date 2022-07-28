@@ -65,8 +65,8 @@ Then run the executable `a.out` by
 Distributed under the [MIT License](./LICENSE).
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[license-shield]: https://img.shields.io/github/license/andrejkurusiov/school-42-c-piscine?style=flat
+[license-shield]: https://img.shields.io/github/license/andrejkurusiov/school-42-c-piscine
 [license-url]: ./LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/andrejkurusiov/
-[language-shield]: https://img.shields.io/badge/language-C-brightgreen
+[language-shield]: https://img.shields.io/badge/language-C-green
